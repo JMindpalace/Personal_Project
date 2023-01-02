@@ -8,11 +8,11 @@ What is Learning in 1 Month:
 -------------------------------------------------------------------------
 
 # Requirements <br>
-  - Basic Requirements
+  ### - Basic Requirements
     1. 제공된 데이터 내에서 다음 분기에 어떤 게임을 설계할지 결정하시오.
     2. 결정한 내용이 비데이터 직군도 이해할 수 있도록 발표하시오.
   
-  - Bare Minimum Requirements
+  ### - Bare Minimum Requirements
     1. 지역에 따라 선호하는 게임 종류
     2. 플랫폼별 게임 성향
     3. 연도별 게임 트렌드
