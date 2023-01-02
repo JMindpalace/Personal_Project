@@ -1,6 +1,6 @@
 # Python Project - Game market predict
-  ## Prject Time: 22.08.24(Wen) ~ 22.08.29(Mon) - 6Day
-  ## 프로젝트 진행형: 새로운 내용 적용해보기용
+  ## Prject Time: 22.08.24(Wen) ~ 22.08.29(Mon) - 6Day <br>
+     프로젝트 진행형: 새로운 내용 적용해보기용
 
 What is Learning in 1 Month:
 - EDA, Feature Engineering, Data Manipulation, Data Visualization, Data wragling
