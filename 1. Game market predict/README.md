@@ -1,6 +1,7 @@
 # Python Project - Game market predict
   ## Prject Time: 22.08.24(Wen) ~ 22.08.29(Mon) - 6Day <br>
-     프로젝트 진행형: 새로운 내용 학습 시 적용해보기
+     프로젝트 진행형 1: 새로운 내용 학습 시 적용해보기
+     프로젝트 진행형 2: VS를 사용하여 Local 환경에서 구동하기
 
 What is Learning in 1 Month:
 - EDA, Feature Engineering, Data Manipulation, Data Visualization, Data wragling
@@ -27,6 +28,8 @@ What is Learning in 1 Month:
   
   ### 2. 그래프 수정이 필요함
      => 텍스트 설명 추가 및 필요한 수치만 표시하기 등
+     => 높은 매출의 클러스터링 그래프 등 추가
   
   ### 3. 통계적 접근이 부족했음
      => 통계적인 생각을 프로그램에 반영할 수 있는 방법 찾아보기!
+     => 데이터 분산 확인, 데이터간의 상관관계 확인 등
